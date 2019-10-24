@@ -1,0 +1,1106 @@
+def start(): 
+
+
+    print("""The rain was pouring down. The grandfather clock chimed seven, and it was your favorite time of the day: early morning.
+
+    You got out of bed and shuffled to the dresser across your barren room. You put on your favorite sweater-a blue one, with pink stripes around the chest, some clean-enough pants, and got your boots.
+    You put them on your feet, grabbed your backpack, and walked out your door.
+
+    You walked down the hallway to the kitchen, where you grabbed a glass from the sink, making sure there wasn’t anything still inside.
+    There was a trace of mildew around the edge, and you washed it off, making sure it was all gone.
+    It was things like this that made you want to go and no longer be a part of the world, not to mention your parents were scumbags.
+    The endless put-downs, never being able to go outside, and worst of all, the never-ending pain of starvation.
+    Your friends (in the scarce times you saw them) were much taller and heavier than you are, and you knew why.
+    You came back to reality to find yourself crushing berries and oats and mixing that with ice and milk, to make yourself a small smoothie to drink before your parents got up.
+    You poured the mixture in the glass and gulped it down.
+    You heard footsteps so you grabbed your raincoat and ran out the door, taking your backpack along with you.
+
+    It wasn’t raining as hard by the time you’d gotten outside.
+    It had become a drizzle. And you kept walking up along the path to the mountain.
+    You’d heard the stories: children being abducted by the monsters, getting lost in the forest, et cetera, et cetera.
+    Still, you bordered the edge of the forest, and you walked in, following the path to the mountain.
+
+    The path was quite beaten by footprints that seemed centuries old. You walked for around an hour, and the rain began pouring down again. You continued walking, and reached the top.
+
+    You looked at the very large hole in front of you. It seemed very deep-so deep, you couldn’t see the bottom. You realised you had two choices-jump, or not
+                                                               
+  .  . .  .  . .  .  . .  .  . .  .  . .  .  . .  .  . .  . 
+   .       .       .       .       .       .       .        
+     .  .    .  .    .  .    .  .    .  .    .  .    .  . . 
+ .       .       .       .       .       .       .          
+   .  .    .  .    .  .    .  .    .  .    .  .    .  . .  .
+  .    .  .    .  .    .  .    .  .    .  .    .  .         
+    .       .       .       .       .       .       . .  .  
+  .   . .    .  .    .  .    .  .    .  .    .  .       .  .
+    .     .    .  .    .  .    .  .    .  .    .  . .       
+  .    .   .       .  . .   .     ....     .          .  .  
+     .   .   .  .   . :%SSXSSX@8888@S: . .   .  .  .   .   .
+  .    .      .  .;X.: %S8@88t; .%@8@S@X%t .   .     .   .  
+    .     . .  . 8  S.X8@;;:.    .:SX8@tS;S .    . .        
+  .   .        . S@:.  ..:..    ......   X  . .      . .  . 
+    .   . .  .  ..:.@ ......  ...   .  S..: .   .  .     .  
+  .                . @%;8  .%SS%S: 8;t8..  .          .     
+     . .  . . .  .  . .    :..::.   .. . .    . . .  .   .  
+
+:
+    
+    
+    
+    
+    
+    .""")
+    choice = input("jump go to ch. 3   DON’T jump go to ch. 2")    
+    if choice == "3":
+        page3()
+    else:
+        page2()
+
+
+def page2():
+    print ("page 2")
+    print ("""\n\n\n You know what? I’m overreacting. Like I always do. I’m going back home to rethink my life.”
+you said to yourself, sighing.
+Just as you turned away from the pit and began walking down the mountain, a deer smashed in to you.
+You tripped and fell down the path, where you hit your head on a tree trunk. You passed out and never woke up again
+
+  .   .           .       .     .. ...  :;:%.tt8:XX@8S8:.: .;.... . .     .   .:    .  .    .     . 
+    .   . .  . .     . .     .    ......  t8@8t@@8SX%8S88%. . :: .   . .    .    .    .  .     .    
+  .         . . .  .     .    . ..  . ..:S88  S8888S8S8 888t:;;.... .   .     .    .       . .   .  
+     . .  .  .   .    .    .    .... ..;SX8XS888888888X8@S8 8888t...  .  . .    .    .  .      .   .
+  .        .   .    .   .   .  . .  .:t@ S@;88t;88t@S S@ S88S88:.;..   .     .    .    .  .  .      
+   .  . .    .    .      . .  . ::..;X8X 888;:%%S%%88 @8@88888S88%8:   . .     .    .           . . 
+ . .      .    .    . . . . . . ..%8: S 888....:::tX%8;88@:8S S8 888ttt:.  . .   .    .  . .  .     
+ . .  .    .     .       . . ... :%@88:88X%;.8@8.8.;X8XtS:@8X.X8S8@X8tS:..     .   .    .       .  .
+ ... . . .   .  .  .  .  . .:.:;t8 888%St%;:88@8X.%t;ttX8Xt%t8:88%@ X88:...  .       .     . .      
+ ... .        .  .. .  .  ...S8%8 :8;;;::..;;::;;8;.  t;;;t8:tS888@88 @8@. .    . .    .       . .  
+ . .. ..  . .   .. . . ...  .8X88S88;t888;888888.8.8.@.: ;::t8%88888@X888;.   .    .  .  . .       .
+  .. .  . .  . ...... . ...:.8SX  @X:;8.88t8@;:8;8:;ttt;%Stt::;%X.:8 SS88%:..  ..    .       .  .   
+  . . . . .. . . . .......:888@X8888t:8t;8@X88.8 8.8:@88@X888X8;8;88888S88t:.   . .     .  .   .  . 
+                  .....:.;@8S88888S888S88@X8S88.8Xt8:888;8@:@:X8@.88:S8 88t: . .    .  .     .      
+  . .  . .  .  .  ...:;tX@8;8X:@;t.t%;%;:8;888.88.t@888;8;88:8%88888XS X888%:   . .      .      .  .
+      .      .  .  ...:;88S8:;t:.8 ;;;@;8:8 8 ;%8t8t:;:;%S S:@8@@8@88@X 888S:  ...   .    . . .     
+ .  .    . .    ..  ..%%tttt .X%88888888;X:8:8 t8%8@..   . ;%8X;tX:8;S@8888@X  .. .    .        . . 
+       .      .  .  ..S8888t@888;8;8;8:88 888.8;8tX:.8:St :...:;8X:S8X 8S888S  ..... .   .  .       
+ . . .    .     . . :;%8t@8;t:888888888.8.8;X88t8.X:8:8@@:@.:;.:;;%t;8:@8 88%. ...     .      .  .  
+....    .   . .   ..:@X@S8%X;88..8:888;8t8X8.8:8:@:8;8;S%@.8%;;:.  ..:888X888.  . .  .    . .      .
+..... .   .    . .. S@%8%:X::888:8@88:@:8.888:8:@:88888@8;;..::. .:..:%@XSX88t. .  ..   .     . .   
+ :: ...... .. ......:X8888:8:8@88X8 8.8.@8 8:88888 8@;@;t;@.8;X:;;..:%X8@S8@8;:  .  .     .       . 
+ :...... ... .......:%888X..88@.8 8888.8t88 8:8888t888:8.8 8:8.8 8  .;S8@.88S...  .   .     .  .    
+ .:..:..........::..;@88;%8;:888;;888.8;8@88.X8.8:888.8:8:8::..tSt.:.%88 8888...     .  .    .   .  
+ ::...........:::::;%@888@@S@;8@8.8 ...8 :.8;8.8;@.X88S:8:8:X:. ..ttX8X S88@8::.  .       .    .   .
+ .::.:.:.:.:.:.....:;X8..S8@8tX.::t:;;8SS ;%:8..8:Stt%;%SX:@:X:@:.XS8@X  888St     .  . .   .       
+ ::.:.:.:.:.:.:.::..;;S88%S88888888888StX@%88;%SS88t:@8S8::%S:t;@88@8X 88@88%  . .            .  .  
+ .::.:.:..::.:.:.:..::;%88; 8tSSSX XXS@8@S%88XX@8;88S:88S8@S88888   888888S:       . .  . . .   .  .
+ :::..:..:::....:::.:;;%XSSX8t@@8888888@@8888t 8@@t;%8X8888S888    88888:.   .  .             .     
+ ::.:.:.:::;:;:;:::.:.. :.:;t:::tS%X8XS%8XXS;%88 ;8 S%ttS@88tS :8888;:::: .   .   .  . . .  .    .  
+.::::.:..:.:..:......:::....:.   ..::.. ..:..:8S8;X ;.  .::::Xt@t;:.     .  .                  .   .
+.::.:.:.:.:.:.:..:..:..:.....:.  . . . ..;: . ;.8XS :. .   .  ..   .. .        . . . .  .  .     .  
+.::::.:.:.:.:..:............... .       ;X:  ...8%% :.  .   .   .  .   .  .  .           .   . .    
+ ::..:.:...:.....:......... ...  . . .  :: . ...@%X :   . .   .     .    .     .  .  . .          . 
+ .::.:............. .......  ...       ...    . %@8 : .        . .   . .   . .            .  .  .   
+ ::.:..:..... .. .. . ..  .   . . ........  . ..t%8 ..: .  ..;S%;... .         . . .  .  .    .    .
+ .:.... . .  .  .  .    .   .  ...    . .  . ...S%X  .:.   ..:t::..     . .  .       .     .     .  
+ :.....  .          . .       .  .  ..   ..   ..S:X:  :. .  ... . . .       .    .  .  .     .  .   
+ .: . .    .  .  .  ..  . .  .  .  ...::.:. . :.X%8  
+ .: .  . .  .  .. .. .  .. . ..: .::.SX@8XSS%%t;%t8   
+stay determined""")
+    input("press enter to return to page 1")
+    start()
+
+
+def page3():
+    print ("page 3")
+    print ("""\n\n\n You said nothing as you gazed over the edge.
+The cold feeling overwhelmed you again.
+You sat down and pulled out a piece of crumpled paper and pencil, and you began writing a note.
+As you hold the pencil over the paper, you realize you’re not entirely sure what to say.
+You sigh and shrug. It’s not like anybody’s really going to see it. You took a deep breath.
+So this is what it’s come to. Slowly, carefully, you crept to the edge of the hole. It’s deep. Really deep. And dark.
+
+Welp.
+
+Pushing against the desperate remnants of your survival instincts, you stepped into the hole.
+
+ 
+
+You awaken in what feels like your bed, but… softer.
+It feels kind of like someone’s opened your window, letting all of the sunlight shine directly in your eyes.
+You savor the feeling a little bit, then force yourself to open your eyes.
+
+You’ve landed atop a bed of golden flowers, their petals soft to the touch.
+You look up to see that the hole you jumped down is what seems to be miles overhead.
+As you got up, you realized that you had fallen down the mountain unscathed.
+The flowers must have broken your fall.
+
+You’re not quite sure what to do next.
+Try and find help, you suppose. You wander around, slightly dazed, until you realize that there’s a beam of light shining down on a different part of the cavern.
+As you made your way through the doorway to the next room, you see a golden flower, but from back there, you’d swear it had a mouth.
+
+“Howdy, I’m Flowey, Flowey the flower! You’re new down here, arent’cha? I’ll show you around!” As the flower spoke, a red heart appeared out of your chest.
+
+Instantly, you start panicking.
+What in the name of God and all things holy is going on?
+
+“Oh, calm down,” Flowey says innocently.
+“That’s just your soul, the very culmination of your being!” He giggles.
+“LOVE makes your soul stronger, and it’s shared through… friendliness pellets.
+Don’t you wanna make your soul stronger? Come on, catch some!” He summons a few effortlessly, and slides them towards your soul.
+                                                                                                    
+           .cllllllll;              .cllllllll,                                
+                          .cll, .cloOWMMMMKdllll,    .:llOWMMMMMMXx, .:ll;                          
+                        .ckWMMKocc' .loooooooooo,    .coooooooooo;..:kNMMXd;.                       
+                      .cOWMMMMMMXd'                                :XMMMMMMXd;.                     
+                      ,o0WMMKxdd;       .:ccccccccccccccccc'       .lddONMMNkc.                     
+                        'odo;     .;::::xNMMMMMMMMMMMMMMMMM0l::::'     .lddc.                       
+              .ccccccc.         .cOWMMMWMMMMMMMMMMMMMMMMMMMMMMMMMXd,         .;lccccc;.             
+            .lOWMMMMMWOl'     .:kNMMMMMMMMXxooOWMMMMMXxooOWMMMMMMMMKo,     .;dXMMMMMMXd;.           
+          'cOWMMMMMMMMMWo   .:kNMMMMMMMMMMk.  :NMMMMMk.  :XMMMMMMMMMMKo,   '0MMMMMMMMMMXd;.         
+        .cOWMW0dddoododo,   cNMMMMMMMMMMMMk.  :XMMMMMk.  :XMMMMMMMMMMMMk.  .cdddddoddkNMMXd,        
+        cNMMMWOc::::::.     cNMMMMMMMMMMMMk.  :XMMMMMk.  :XMMMMMMMMMMMMk.     ,::::::oXMMMMO.       
+        cNMMMMMMMMMMMWk:.   cNMMMMMMMMMMMMk.  :XMMMMMk.  :XMMMMMMMMMMMMk.   ,oKMMWWMMMMMMMMO.       
+        'lod0WMMMMMMMMMWo   :NMMMMMMKdOWMMKocckWMMMMMKocckWMMKxkNMMMMMMk.  '0MMMMMMMMMMNkoo:.       
+            ,d0WMMMMMMMWo   .lOWMMMW0lloodoooooooooooooooddoolcdNMMMMXx:.  '0MMMMMMMMNkc.           
+              ,d0WMMMMMWOc.   :XMMMMMW0l' .;:::::::::::::' .;xNMMMMMMx.  .;dXMMMMMMNkc.             
+                ,odddddddd,   .o0WMMMMMM0lcodddddddddddddocxNMMMMMMXx;   .lddddddddc.               
+                          .,.   .oKWMMMMMW0l;;;;;;;;;;;;:xNMMMMMMNk:   .,'                          
+                      .;;;xNd.    ,xKWMMMMMWWWWWWWWWWWWWWMMMMMMNOc.    ,K0l;;'                      
+                    .;xWWWMWd.      ,dkk0WMMMMMMMMMMMMMMMMMXOxkl.      ,KMWWWKl.                    
+                  .;xNMMMMKxo:::'       .lddddddddddddddddd:.      .;::coONMMMW0l'                  
+                  cNMMMMKxlcxNMM0l;;;;.                      .,::;:xNMMKlcdONMMMMk.                 
+                  cNMMMWo.cNMMMMMMWWWWOc;;;;;;;;.  .,;;;;;;;;dXWWWWMMMMMWk.,0MMMMO.                 
+                  cNMMMWk:xWMMMMMMMMMMMWWWXkxxxx:  .oxxxx0NWWMMMMMMMMMMMMKclXMMMMO.                 
+                  ,xkOXWMWWMMMMMMMXOkkkkkkc.             ,dkkkkkk0WMMMMMMMWWMN0kkl.                 
+                     .:kkkkkkkkkkk:.                             .dOkkkkkkkkko.                     
+                                            .;;;.                                                   
+                                          .,xNMWO:,.                                                
+                                          ;KMMMMMWWx.                                               
+                                        .'oNMMMMXOkc.                                               
+                                        ;KWMMMXOc.                                                  
+                                        ;XMMMWx.                                                    
+                                        'xKWMMk,.                                                   
+                                          :XMMWNk:,.                                                
+                                          'xXWMMMWNO:.                                              
+                                            ;kXWMMMWWx.                                             
+                                              ;kXWMMM0;.                                            
+                                                cXMMMWNx.                                           
+                                               .oNMMMMM0:.                                          
+                                    .'.     .'oKNMMMMMMWXo.   '.                                    
+                                    :Kd.   'dXWMMMMMMMMMWx.  ,0k.                                   
+                                    ;kd,. .dKWMMMMMMMMMNKc  .:ko.                                   
+                                     .;xo,..:O000000000d...:xl.                                     
+                                       .,xo,',,,,,,,,,,'.:xl.                                       
+                                         .,dkkkkkkkkkkkkkl.                                         
+                                           ..............                                           
+                                                                                                   
+                                             .                    """)
+    choice = input("dodge go to ch. 4   DON’T dodge go to ch. 5 ")    
+    if choice == "4":
+        page4()
+    else:
+        page5()
+def page4():
+    print ("page 4")
+    print ("""\n\n\n  There’s something… off about this.
+You move your soul out of the way, and Flowey instantly looks agitated as the little bullets fly past your soul.
+“Think ya missed em. Try again!” Yep, definitely something weird going on. You move your soul out of the way again.
+
+Suddenly, Flowey’s face contorts into something downright nightmarish.
+“You know what’s going on here, don’t you? You just wanted to see me suffer.”
+
+You’re about to protest when something tightens around your soul.
+You yell in fear.
+Flowey's laughs as he slowly crawls a massive ring of pellets towards your soul.
+You curl up like it will protect you. 
+
+But the bullets never hit.
+
+A fireball comes from somewhere to the right of you and hits Flowey.
+He cries out in shock and burrows off, the bullets disappearing as he does.
+As you're about to get up, a huge... goat? appears.
+She's wearing a long purple dress and smiling warmly.
+"Hello, my child. I am Toriel, caretaker of the Ruins.
+I come here every day and look for fallen children. Please, come with me
+ .  . .  .  . .  .  :8;@ ..  . . t8t;t 
+   .       .       . 8 .%t %t%t%t;XSSt%   
+     .  .    .  .   .% @S 8      ;S .88;  
+ .       .       . X..SS%;:.. . ..8;8X::X.      
+   .  .    .  .  .t@t:%%:XS :; S@ Xt8t;.:X;     
+  .    .  .    . S ; 8St;   8  ;XS.t:%%  X.          
+    .       .   ..t: 8 8SS8X%;.t8t X;%%  t@% 
+  .   . .    .  : @ .8 8XX:@S  ..:;X8@% . %8   
+    .     .     . @  8S8 .. .  . .  X:t. .S8 
+  .    .   .  . .%8. tX@8  .X: X; .;%%X  .S8       
+     .   .      .S .  ;.XS:t8; @S;: ;    88@    
+  .    .    . .  X : .@8 ::% @t8.@X.;S   X:     
+    .     .  ;S S @X   8 :  S :X @8.St  S X8;;X 
+  .   .    ;t.8X@..8:8tS .:;@SSXt:. tt8@ :.X8X;.X  
+    .   . tXt. :..  .:::....   .:  .:::;;..  . @88.       
+  .       8X: S ..8  S    8@X@@X@@S  S S ;. 8S  :S.
+     . . ; X  8;:@;S:%@;;XtSSXSSSS8;;8.;:X ..8. .X%       
+  .      S.:  8t.@;:;:8.Stt  ;X. .SS;;@S S . 8   88%.
+    .  .S8@  . ;:@;;::8t% 8tX%t:8.::%.:. X .. :  :8S 
+  .     %t  .%8..8S@:.  X%8S88X:S8 8.   %XX8 :: . 8   
+    . . %t.  %8 .t8S .                 XS%%@ ::   8       
+  .    @8X   %8 :;8X88    88    tS.   :8%.S@ .:   . t
+     .88%  . S;.:;8 S8@  8;%@  :;% . S8X .S@ . % . .;::  
+  .  . @    . ..:;8  8t:.    .::....  S  .S@  S8.   . 8. 
+    .%X% .  . ..SS8  ..X:.  S:8:   .;@;.  8t  t@  .  :S:    
+  . S8%    .    8.     @ ;:  t8   8 @:..  ;tt:@8.    :.S  
+   8SS .    S;  8;      .S S;.  8  S..   .S:%:;%  .   :%t
+  ::8.   .  @  t8@       .8t X%S X:.      :@S..S;.     t8%  
+  t 8. .   .@   8        .  .     ..      .8t. X;  . . ;S;. 
+ .t88X   .  8 . 8.                         @;. X; .   % ;t  
+  % ; 8t    @ . 8                          8t..X;   .: % % .
+ .;:.;@S8  .@ . 8                          @;. X;. tS 8 88S 
+ :Xt  S@    @ . 8                          8;. S; .;:    ;@:
+ X:  ;X8XX  @ . 8                          @t..X; t ;@.; @ :
+ ;SS.8X@@ .S8.. 8                          8;. X@ .:8 t@;tS:
+  @@8 S8  S S . 8                          @t..:S@: %8 SXt. 
+   t%tS    ;... 8                          @;...     .@;8   
+ .      .  ;:.:S ..                        8SS .S
+   .  .    ;:.XS:.                           8       
+    .    . t..8X@:.                        S X .X       
+ .     .   @8  X: XS %@@888@.SS  %@@888X X% @. ;%  
+   .  .   . 8 ;: .  8t@SSSSS;..:X%@SSS%X:    ;@;.
+    .   .    :X: XSX         . .        :@8:S@t  
+ .         . %: .:tX8@@@@@8X.:8 :@@@@@@8@%X.. 8.      
+            888SS%.       .: X XX         tSSXX;   
+           @8@X: X;.:tt;tX;:8S 8. 8;t;t;. @t 8@ S        
+           @t .tX. t:  . ;S;    .t@. . . X :8 X:%   
+            8X@@@@@        .    .      t8@@888:    """)
+    choice = input("Follow go to ch. 6.    DON’T follow go to ch. 7 ")    
+    if choice == "6":
+        page6()
+    else:
+        page7()
+
+def page5():
+    print("page 5")
+    print("""\n\n\nThis flower seems nice, so you keep your soul in one place.
+The pellets smash into your soul, and you recoil in surprise and pain.
+Flowey’s face contours into something nightmarish.
+“You IDIOT!” You freeze in shock as your HP drops to 1/20.
+You could see him summoning another barrage of bullets as something tightens around your soul.
+You curl up as thought it will protect your soul.
+
+But the bullets never hit.
+
+A fireball comes from somewhere to the right of you and hits Flowey.
+He cries out in shock and burrows off, the bullets disappearing as he does.
+As you're about to get up, a huge... goat? appears. She's wearing a long purple dress and smiling warmly.
+"Hello, my child. I am Toriel, caretaker of the Ruins. I come here every day and look for fallen children.
+Please, come with me.
+ .  . .  .  . .  .  :8;@ ..  . . t8t;t 
+   .       .       . 8 .%t %t%t%t;XSSt%   
+     .  .    .  .   .% @S 8      ;S .88;  
+ .       .       . X..SS%;:.. . ..8;8X::X.      
+   .  .    .  .  .t@t:%%:XS :; S@ Xt8t;.:X;     
+       .  .    . S ; 8St;   8  ;XS.t:%%  X.          
+                ..t: 8 8SS8X%;.t8t X;%%  t@% 
+                : @ .8 8XX:@S  ..:;X8@% . %8   
+                  @  8S8 .. .  . .  X:t. .S8 
+                .%8. tX@8  .X: X; .;%%X  .S8       
+                .S .  ;.XS:t8; @S;: ;    88@    
+                 X : .@8 ::% @t8.@X.;S   X:     
+             ;S S @X   8 :  S :X @8.St  S X8;;X 
+           ;t.8X@..8:8tS .:;@SSXt:. tt8@ :.X8X;.X  
+          tXt. :..  .:::....   .:  .:::;;..  . @88.       
+          8X: S ..8  S    8@X@@X@@S  S S ;. 8S  :S.
+         ; X  8;:@;S:%@;;XtSSXSSSS8;;8.;:X ..8. .X%       
+         S.:  8t.@;:;:8.Stt  ;X. .SS;;@S S . 8   88%.
+       .S8@  . ;:@;;::8t% 8tX%t:8.::%.:. X .. :  :8S 
+        %t  .%8..8S@:.  X%8S88X:S8 8.   %XX8 :: . 8   
+      . %t.  %8 .t8S .                 XS%%@ ::   8       
+       @8X   %8 :;8X88    88    tS.   :8%.S@ .:   . t
+     .88%  . S;.:;8 S8@  8;%@  :;% . S8X .S@ . % . .;::  
+     . @    . ..:;8  8t:.    .::....  S  .S@  S8.   . 8. 
+    .%X% .  . ..SS8  ..X:.  S:8:   .;@;.  8t  t@  .  :S:    
+    S8%    .    8.     @ ;:  t8   8 @:..  ;tt:@8.    :.S  
+   8SS .    S;  8;      .S S;.  8  S..   .S:%:;%  .   :%t
+  ::8.   .  @  t8@       .8t X%S X:.      :@S..S;.     t8%  
+  t 8. .   .@   8        .  .     ..      .8t. X;  . . ;S;. 
+ .t88X   .  8 . 8.                         @;. X; .   % ;t  
+  % ; 8t    @ . 8                          8t..X;   .: % % .
+ .;:.;@S8  .@ . 8                          @;. X;. tS 8 88S 
+ :Xt  S@    @ . 8                          8;. S; .;:    ;@:
+ X:  ;X8XX  @ . 8                          @t..X; t ;@.; @ :
+ ;SS.8X@@ .S8.. 8                          8;. X@ .:8 t@;tS:
+  @@8 S8  S S . 8                          @t..:S@: %8 SXt. 
+   t%tS    ;... 8                          @;...     .@;8   
+ .      .  ;:.:S ..                        8SS .S
+   .  .    ;:.XS:.                           8       
+    .    . t..8X@:.                        S X .X       
+ .     .   @8  X: XS %@@888@.SS  %@@888X X% @. ;%  
+   .  .   . 8 ;: .  8t@SSSSS;..:X%@SSS%X:    ;@;.
+    .   .    :X: XSX         . .        :@8:S@t  
+ .         . %: .:tX8@@@@@8X.:8 :@@@@@@8@%X.. 8.      
+            888SS%.       .: X XX         tSSXX;   
+           @8@X: X;.:tt;tX;:8S 8. 8;t;t;. @t 8@ S        
+           @t .tX. t:  . ;S;    .t@. . . X :8 X:%   
+            8X@@@@@        .    .      t8@@888:    """)
+    choice = input("Follow go to ch. 6.    DON’T follow go to ch. 7 ")    
+    if choice == "6":
+        page6()
+    else:
+        page7()  
+
+
+def page6():
+    print("page 6")
+    print("""\n\n\n  
+She seems nice, so you struggle to your feet to follow her, but stumble back to the ground.
+“My child you are hurt allow me to help”
+as the goat picked you up in they soft furry armed they were the warmest coziest thing you have ever felt.
+
+                                                                                                           
+                                                                                                            .*...,                                             
+                                                                                                         ..   ..**                                             
+                                                                                                          . .   .*                                             
+                                                                                                    *.....* .   . *.,                                          
+                                                                                              .      *   ,* .   . . *   .                                      
+                                                                                              ..****      . .   ,.*   **                                       
+                                                                                            * *           . .           * .                                    
+                                                                                        ..                , ,               ,..                                
+                                                                                       .. *,   ..                       .. *                                   
+                                                                                       .*,.   .* .                      *                                      
+                                                                                       .*,.  *.                    ****.      .,                               
+                                                                                   .  ,       *                        ,.     *.                               
+                                                                                    .  .      *                               *.                               
+                                                                                    .  .      *      ..         .*            *.                               
+                                                                                    .  .      *     .             ,        .  *.                               
+                                                                                    .  . .   *      .                *****.   *.                               
+                                                                                    .  .  .*        .           .   *         *.                               
+                                                                                     . *** *        .            .   *.*      *.                               
+                                                                                       .   *        ***            **. *      .,   .                           
+                                                                                       .   *           . .             *       .,*.                            
+                                                                                          .*           . .                     .,*.                            
+                                                                                          .*              *.                       ,.                          
+                                                                                          .*              . .                     .  .                         
+                                                                                          .*              . .                     .  .                         
+                                                                                             .*          ..   .          ..    .  .  .                         
+                                                                                              .     .    ..  * ., .      ..     ,..,                           
+                                                                                                          .      *        .*   .                               
+                                                                                              *     .    *,    ,*         .                                    
+                                                                                           ,*..     .    **,.  .*.*  .....                                     
+                                                                                          .**       .*****  *,    , **                                         
+                                                                                          .**    .        . *,       ,    .                                    
+                                                                                          .** .**....      .,.******.*..* .                                    
+                                ..                                                    .  *****, *            . *.....****.*  ..                                
+                                  ************************* ...                        .** .*.,              . .****** *.  *                                   
+                               **.************************(****                        . **.                 . .*****....**                                    
+                             ,*********************************,   .                   .*. ,.                . *.*      *..  .  .                              
+                           ,***************************************..               .. ..                 .. .*  *...    ****  .                               
+                           ,*****************************************               .  .                  . *, ,* ..*       ***.                               
+                         .*.*****************************************           .,.                       . *, ,* .************.                               
+                        ,****************************...***..********         .  ,. .                  .  .*., ,.*....*********.                               
+                         ****************************, ,**.  ********        .. ..                     . *,       ,  .*********.                               
+                     ..*.*************************      **.  ******..     .,.. ..                .*....,             ,*... ****.                               
+                     .****************************              .*        ., .                   ******              .***  ****.                               
+                     .*******************..*.*****              **      . . *..             .  .*.                      * *.***.   .                           
+                     .*****************     .*****              **     .,.. .                .*                         * *.*** **.,                           
+                     .*****************     ,  ***      .....   **     .  .             .  *.*,                         ,**..*    .                            
+                     .****************.,      ,.**     ,.....   .*   .   *. .             .**                              *    .*. . .                        
+                     .*******************     ,.**                 **     ., .            .**                              *   .  .  .                         
+                     .**********************                       **  .,**   ***.     ..*                                   **.  .  .                         
+                      .  *******************..               .****.**  .  .       , .  .**                                   **.  .  .                         
+                        ,**********************              .     **  .  .      . ,.  .**                                   **.  ., .                         
+                        ,** . ,****************                 ****** .            . *                                      **      .                         
+                         .       ***   (****  ,    *............**.   *.            . *                                      **.     .                         
+                                  ,*   *,***     ,.**********.****    ..            . *                                      **.                               
+                                         *(*     ,.*********(     ,   ..            . *                                      **.                               
+                                         *(*.****.**..         *,****.  ...     ....,,                                       **.                               
+                                         *(**...****..*    ***********    *     ,. *                                         ,**                               
+                                         *(**  .***((((.  *((((           . *****  *                                            **.                            
+                                       .*****  .***    ***.                      . *                                            **.                            
+                                    .*****(**  .***    ****                      . *  *.******.                                  ...*.                         
+                                    **(* ,..*  .***    *..*                     ...*  ** *....*                                    * .                         
+                                    ******     .***       ***.                      .   *,    .*    ,                              * .                         
+                                    ******  ,*****        **(.                      .    .          .****..                     *.*   .  ,****                 
+                                    **.     ,**            *(.              ,,,,,,,,  .             .    ******,           *****.**.,,,,      , ,              
+                                    ***     .***          **(.            .,  .....,.          ..... ...........,          *....*  *....,.     .               
+                                    ***     .***          ***.            ., .                .*                .         .    .,*.            .               
+                                    **.      .*         ..*, .            ., .             .   ,                  * *.,    .     , .           .               
+                                    *****...*          ****               . *,.               *                    *.                          .*              
+                                    ******    *.***********                  .. ..          *    .                     *                 .    ,.               
+                                    *****(....* . ,********  *****            .. ..,.        .... ..                  . ,.*       . ..... ....                 
+                                .  *(*******      ,********  **.  ..             . ,.            .*                     * *        ,,,,,                       
+                                  **********      ,*************                 .  .            .*                     *         .                            
+                                    ********(.*      ,******(.                   . ***************                                                             
+                                               .    .        .                                      .                                                          
+                                                                                                                             
+
+                                                   
+
+ .""")
+    choice = input("Dream go to ch 8 ")    
+    if choice == "8":
+        page8()
+def page7():
+    print ("page 7")
+    print("""\n\n\n The goat seems mean so your run the other direction and ram into something green 
+    that appeared to just appear from the ground as your vision darkens 
+    you could feel something softly squeezing your side in a kind of comforting way                     ,&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%                                     
+                           ...,&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%...                                  
+                           &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.                                 
+                       .///&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&(//,                              
+                       *@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@/                              
+                    #&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%                           
+                    %&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%.                          
+                    %&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&,                       
+                 ***%&&&&&&&&@##&&&&&&&&&&&&&%###&&&&&&&&&&&&&&&&&&&&&&&&,                       
+                .&&&&&&&&&&&&&%,,,%&&&&&&&&&&&&(,,,%&&&&&&&&&&&&&&&&&&&&&&&,                       
+                .&&&&&&&&&&***,,,,,,,#&&&&&&/*,,,,,%&&&&&@/,,*&&&&&&&&&&&&&,                       
+                .&&&&&&&&&@,,,,,,,,,,(@&&&&&*,,,,,,%&&&&&@/,,*&&&&&&&&&&&&&,                       
+                .&&&&&&&&&@,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,%&&&&&&@&&&&&&                    
+                ,&&&&&&&&&@,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,%&&&&&&&&&&&&&                    
+             /@&&&&&&&&&&&@,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,%&,,*&&&&&&&                    
+             /@&&&&&&&&&&&@,,,*######/,,,,,,,,,,,,,(######*,,,,,,///*,,*&&&&&&&                    
+             /@&&&&&&@&&&&@,,,/@@@@@@(,,,,,,,,,,,,,&@@@@@@/,,,,,,,,,,,,*&&&&&&&                    
+             /@&&&&&&&&(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/&&&&&&&&&&                    
+             /@&&&&&&&&(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/@&&&&&&&&&                    
+             /@&&&&&&&&(,,,,,,,,,,,,,,,,*@@@@@@#,,,,,,,,,,,,,,,,,%&&&&&&&&&&&&&                    
+             /@&&&&&&&///,,,,,,,,,,,,,  *#%%%%%/,,,,,,,,,,*//////%&&&&&&&&&&&&&                    
+             /@&&&&&&&&&@&&,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#&&&&&&&&&&&&&&&&&&&&                    
+             /@&&&&&&&&&&&&&&&&&&%*,,,,,,,,,,,,,,,,,,,*&&&&&&&&&&&&&&&&&&&&&&&&                    
+             /@&&&&&&&&@&&&&&&&&&&*,,,,,,,,,,,,,,,,,,,*@&&&&&&&&&&&&&&&&&&&&&&&                    
+                .&&&,  *@&&&&&&&&&@&&&&&&&&&*,,,,,,%&@&@&&&&&&&&&&&@/  .&&@,                       
+                .&@&,  *@@@@@@@@@@@@@@@@&&&&*,,,,,,%&&&@@@@@@@@@&@&&/  .&@@,                       
+                                        ,&&&*,,,,,,%&@%          %&&/                              
+                                     .**/&&&(//////&&@&******,   /((,                              
+                                     /&&&&&&&&&&&&&&&&&&&&&&&%                                     
+                           #%%%%%%%%%((((&&&&&&&&&&&&&&//(%&&&%%%%%%*                              
+                           &@@@&&@@&@#//(&@@@@@@@@@@@@&///%@@&&&&&@@/                              
+                       *@@@/*/(&@&//*///////////////////////*/&&&(//#@&%                           
+                    .../&&&(//(&&&(//////////////////////////(&&&(//#&...                        
+                    %&/**&&&##############################&&&&&//(@&&,                       
+                    %&///&&@%///////////////////////////////(((%&&%//(&&&,                       
+                    %&/*/&&&&///////////////////////////////*//%&&%/*(&&&,                       
+                    %&&&@&&&&&#################################&&@&@@&&@@,                       
+                    %&&&@@&&&&#################################&&&@&@&&&&,                       
+                    %@&(,,,&&&%*/////////////////////////////////%@,,*&&&,                       
+                    %&***&&&%//////////////////////////////////%&**/&&@,                       
+                    %@&&&&@&&&%//////////////////////////////////%&&&&&&&&&,                       
+                    .......&&&%//////////&&&&&&&&&&/*////////////%&&(......                        
+                           &&&%/////////(&&&@@&&&&&/*////////////%&@/                              
+                           &&&%/////////(&&&.  *@&&//////////////%&&/                              
+                           &&&%/////////(&&&,  *@&&(/////////////%&&/                              
+                           &&&&&&&&&&&&&&&&&,  *@&&&&&&&&&&&&&&&&&&&/                              
+                           ,,,,,,*&&&&&&&&&&,  *@&&&&&&&&&&&@%*,,,,,.                              
+                                  %&&&&&&&&&,  *@&&&&&&&&&&&&%                                     
+                              ,@@@&&&&&&&&&&,  *@&&&&&&&&&&&&&@@&,               
+               
+    
+    
+    
+    """)
+    if choice=="9":
+      page9()
+      
+def page8():
+    print("page 8")
+    print("""\n\n\n Before you knew it you were somewhere new.
+The new area was completely dark in all direction, kind of like a kind of void?
+Far in the distance, there’s a little dot, seemingly hovering.
+You approached slowly and carefully,
+the dot slowly turning into a figure, they appear to be melted and less of a person and more a pile.
+They watch you for a few moments, then clear their throat.
+
+And say something unreconizable
+
+You try to understand them, but you can’t.
+After waiting patiently for a few moments, they seem to understand.
+
+ 
+
+And with that, you wake up.
+
+You yet again feel something bed like underneath you.
+This time it was a bed.
+You look around to see you were in a room you have never seen before
+and on the floor next to the bed there’s a piece of something
+you get up to investigate when you pick it up a voice whispers to you “it’s butterscotch pie.
+You look around to see where the voice came from and you spot a door
+                           
+
+                                          .#@@@@@@@@@@@@@&/                                        
+                                          .#@@@@@@@@@@@@@&/                                        
+                                      ,*///#%%%%%#########(////////*.                              
+                                     ./&@&(///*,,,,,,,,*#&@@@@@@@#*                              
+                                     .(@@@@#///*,........*(@@@@@@@@%*                              
+                                     ,(@@@@#///*,........*(@@@@@@@@%/.                             
+                                .*(##%&@@@@%###(/****/((((/////(########(,                         
+                                ,(&@@@@@@@@&%%%#(///(#%%%#/....*///(%@@@%/.                        
+                                ,(&@@@@@@@@&%%%#(///(#%%%#/....*///(%@@@%/.                        
+                            .,,,/#&@@@&%%%%#((((/***/(###(/********(%&@@%(*,,,.                    
+                           ,(&&&&&%%%#(,,,,,,,,,,...,*///((####*,..*(%%%%&&&&%/                    
+                           ,#@@@@&%%%#/.............,*////(%%%#*...*(#%%%&@@@&/                    
+                           ,#@@@@&%%%#/.............,**///(%%%#*,..*(#%%%&@@@&/                    
+                  ,/((((((((#%%%#(///*,..............,,,,**//////////////(((((((((/.               
+                 .(@@@@@@@@///*,............................,(%%%(*........*#@@@&*               
+                 .(@@@@@@@@///*,............................,(%%%(*........,#@@@&*               
+        .,,,,,,,,*(&&&&@@@@/***,.........................,,,,/((((/**,,,,**/#@@@@/,,,..          
+       ./#%%%%%%%%#(((#&@@@%(,,,,.........................,*********/((((((((#&@@@@&%%%(,          
+       ,#@@@@@@@@@%///(&@@@%/,............................*////,...*(#%%%%%%%%&@@@@@@@@%*          
+       ,#@@@@@@@@@%///(&@@@%/,...........................,*///*,...*(#%%%%%%%%&@@@@@@@@%*          
+   *///(#%%%%%%%%%%%%%%#(((/*..............,,,,,,,,,**////(((((////(#%%%%&&&&&%%%%%%%%%##(//*,     
+  .#@@@////////(%@@@&/,..................*/////////(#%%%%%%%%%%%%%%%%%%&@@@@%////////(%@@@%/.    
+  .#@@@////////(%@@@&/...................*////////(#%%%%%%%%%%%%%%%%%%%&@@@@%////////(%@@@%/.    
+..,#@@@(///////(%@@@&/.....,,,,,,,,,,,,,,*////////(#%%%%%%%%%%%%%%%%%%%&@@@@%////////(%@@@%/.....
+%%%#(((######(///(%@@@&/...,/((((((((((((((###########%%%%%%%%%%%%%%%%%%%&@@@@%/////////((((#%%%%%%
+@@@#///(#%%%#(///(%@@@&/...*(#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&@@@@%/////////////(%@@@@@
+@@@#///(#%%%#(///(%@@@&/...*(#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&@@@@%/////////////(%@@@@@
+@@@#////(###((///(%@@@@(***/(%%%%%%%%%%%%%%%%%%%%%%%%%&&&&&&&&&&&&&&&&&&&&&&&%(****/////////(%@@@@@
+@@@#/////////////(%@@@@&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&@@@@@@@@@@@@@@@@@@(///*...,*////////(%@@@@@
+@@@#/////////////(%@@@@&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&@@@@@@@@@@@@@@@@@@///*,....*////////(%@@@@@
+@@@#/////////////(%@@@@&%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&@@@@@@@@@@@@@@@@@@///**...,*////////(%@@@@@
+@@@(*,,**////////(%@@@@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%#########((((//////******///**,,,/#@@@@@
+@@&/...,*////////(%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&%%%#(////////*,...,*/////////////*,...*#@@@@@
+@@&/...,*////////(%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&%%%#(////////*,...,*/////////////*,...*#@@@@@
+###(////*********/(&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%#(((((((((////**,,,,*////**********////(######
+..,#&&&%/,..,.,.,,*(((((((((((((((((((((((((((((((((/*,,,*/####(/////****/////*,,,,..,,*#&&&%/,....
+  .#@@@%/,.......,,/////////////////////////////////*,...,/%%%#(/////////////*,........*#@@@%/.    
+  .#@@@%/,.......,*/////////////////////////////////*,...,/%%%#(/////////////**........*#@@@%/.    
+   ,///((########(/,,,,,,,,,,,,,**///////////////////////((((((*,,,,,,,,,,,,,*/#########(///*.     
+       ,#@@@@@@@@&(.............,*///////////////////(#%%#(////,.............*(@@@@@@@@%*          
+       ,#@@@@@@@@&(.............,*///////////////////#%%%#(///*,.............,#@@@@@@@@%*          
+       ,/%&&&&&&&%(*********************************/(###((******************/#&&&&&&&*          
+        .........*(&&&&&&&&&&&&&%/,,,,,,,,,,,,,,,,,,,,,,,,,,,,*#&&&&&&&&&&&&&%(,........           
+                 .(@@@@@@@@@@@@@&(,...........................,%@@@@@@@@@@@@@&/                    
+                 .(@@@@@@@@@@@@@&(,...........................,%@@@@@@@@@@@@@&/                    
+                  ,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,                    
+                                ,(&@@@@@@@@@@@@@@@@@@@@@@@@@@@&*                                   
+                                ,(&@@@@@@@@@@@@@@@@@@@@@@@@@@@&*
+.""")
+    choice = input("Leave room go to ch 10   To go back to sleep go to ch 11 ")    
+    if choice == "10":
+        page10()
+    else:
+        page11()    
+
+def page9():
+    print("Page 9")
+    print("""\n\n\nBefore you knew it you were somewhere new.
+The new area was completely dark in all direction, kind of like a kind of void? Far in the distance,
+there’s a little dot, seemingly hovering. 
+You approached slowly and carefully, the dot slowly turning into a figure,
+they appear to be melted and less of a person and more a pile. 
+They watch you for a few moments, then clear their throat.
+
+And say something you cant understand.
+You try to understand them, but you can’t.
+After waiting patiently for a few moments, they seem to understand.
+
+ 
+
+As you wake you start to notice your in a completely
+different spot them before the area is similar in many ways the only difference
+that you can pick out right away that the is no gaping hole back to the top of the mountain above you.
+And next to you you can see a flower. On closer examination you see the flower has a has a face and is flowey.
+He is staring at you like you're an old friend or maybe a sibling of same type.
+                               .cllllllll;              .cllllllll,                                
+                          .cll, .cloOWMMMMKdllll,    .:llOWMMMMMMXx, .:ll;                          
+                        .ckWMMKocc' .loooooooooo,    .coooooooooo;..:kNMMXd;.                       
+                      .cOWMMMMMMXd'                                :XMMMMMMXd;.                     
+                      ,o0WMMKxdd;       .:ccccccccccccccccc'       .lddONMMNkc.                     
+                        'odo;     .;::::xNMMMMMMMMMMMMMMMMM0l::::'     .lddc.                       
+              .ccccccc.         .cOWMMMWMMMMMMMMMMMMMMMMMMMMMMMMMXd,         .;lccccc;.             
+            .lOWMMMMMWOl'     .:kNMMMMMMMMXxooOWMMMMMXxooOWMMMMMMMMKo,     .;dXMMMMMMXd;.           
+          'cOWMMMMMMMMMWo   .:kNMMMMMMMMMMk.  :NMMMMMk.  :XMMMMMMMMMMKo,   '0MMMMMMMMMMXd;.         
+        .cOWMW0dddoododo,   cNMMMMMMMMMMMMk.  :XMMMMMk.  :XMMMMMMMMMMMMk.  .cdddddoddkNMMXd,        
+        cNMMMWOc::::::.     cNMMMMMMMMMMMMk.  :XMMMMMk.  :XMMMMMMMMMMMMk.     ,::::::oXMMMMO.       
+        cNMMMMMMMMMMMWk:.   cNMMMMMMMMMMMMk.  :XMMMMMk.  :XMMMMMMMMMMMMk.   ,oKMMWWMMMMMMMMO.       
+        'lod0WMMMMMMMMMWo   :NMMMMMMKdOWMMKocckWMMMMMKocckWMMKxkNMMMMMMk.  '0MMMMMMMMMMNkoo:.       
+            ,d0WMMMMMMMWo   .lOWMMMW0lloodoooooooooooooooddoolcdNMMMMXx:.  '0MMMMMMMMNkc.           
+              ,d0WMMMMMWOc.   :XMMMMMW0l' .;:::::::::::::' .;xNMMMMMMx.  .;dXMMMMMMNkc.             
+                ,odddddddd,   .o0WMMMMMM0lcodddddddddddddocxNMMMMMMXx;   .lddddddddc.               
+                          .,.   .oKWMMMMMW0l;;;;;;;;;;;;:xNMMMMMMNk:   .,'                          
+                      .;;;xNd.    ,xKWMMMMMWWWWWWWWWWWWWWMMMMMMNOc.    ,K0l;;'                      
+                    .;xWWWMWd.      ,dkk0WMMMMMMMMMMMMMMMMMXOxkl.      ,KMWWWKl.                    
+                  .;xNMMMMKxo:::'       .lddddddddddddddddd:.      .;::coONMMMW0l'                  
+                  cNMMMMKxlcxNMM0l;;;;.                      .,::;:xNMMKlcdONMMMMk.                 
+                  cNMMMWo.cNMMMMMMWWWWOc;;;;;;;;.  .,;;;;;;;;dXWWWWMMMMMWk.,0MMMMO.                 
+                  cNMMMWk:xWMMMMMMMMMMMWWWXkxxxx:  .oxxxx0NWWMMMMMMMMMMMMKclXMMMMO.                 
+                  ,xkOXWMWWMMMMMMMXOkkkkkkc.             ,dkkkkkk0WMMMMMMMWWMN0kkl.                 
+                     .:kkkkkkkkkkk:.                             .dOkkkkkkkkko.                     
+                                            .;;;.                                                   
+                                          .,xNMWO:,.                                                
+                                          ;KMMMMMWWx.                                               
+                                        .'oNMMMMXOkc.                                               
+                                        ;KWMMMXOc.                                                  
+                                        ;XMMMWx.                                                    
+                                        'xKWMMk,.                                                   
+                                          :XMMWNk:,.                                                
+                                          'xXWMMMWNO:.                                              
+                                            ;kXWMMMWWx.                                             
+                                              ;kXWMMM0;.                                            
+                                                cXMMMWNx.                                           
+                                               .oNMMMMM0:.                                          
+                                    .'.     .'oKNMMMMMMWXo.   '.                                    
+                                    :Kd.   'dXWMMMMMMMMMWx.  ,0k.                                   
+                                    ;kd,. .dKWMMMMMMMMMNKc  .:ko.                                   
+                                     .;xo,..:O000000000d...:xl.                                     
+                                       .,xo,',,,,,,,,,,'.:xl.                                       
+                                         .,dkkkkkkkkkkkkkl.                                         
+                                           ..............                                           
+                                                           
+
+
+
+
+""")
+    choice = input("Smile and wave go to ch 12    RUN go to ch 13")
+    if choice == "12":
+        page12()
+    else:
+        page13()
+
+def page10():
+    print("Page 10")
+    print("""\n\n\nYou decide to leave the room.
+After leaving you see that your in a small house and for some reason you leave the house, 
+when you exit the house you see there is a yellow star near the door.
+You walk up to it and start to feel determined a voice whispers 
+“the sight of the small house fills you with…. DETERMINATION!” Then your HP went up.
+After words you are approached by a frog and the world around you goes black and white and in front of you two buttons appear
+
+                                                            .*%&@&%%%%&@@&%(*.                     
+                   .,/#%&&&%%(*.                         ,%@(,              .*(&@#,                
+               .%@&(,         ./%&(.                   /@#.     ............      /&,              
+             (@#                  ,%&*               ,    .....................  .%%.            
+           (@*                       #@,            *@*   .........................  (&.           
+         .&(                          .          *@,  .....*&@@@@@@@%*.........,..  %#           
+         %#                             %%        .@*  .....&@@@@@@@@@@@@%*.......,.  ,@,          
+        .&*         ,(%%%%%/.            %#       #%  .....#@@@&*.*%@@@@@@@%,........  %(          
+        .&*      /@@@@@@@@@@@@(           %(     ,@, ......#@@@*       *&@@@@/.,,.,,.  (%          
+         &/     (@@@@&* .%@@@@@(          *@,    *&. ......*@@@@&/       /@@@&,...,,,  /&          
+         %#     @@@%.    #@@@@@&.          %(    (% ......../@@@@@@&(.  .%@@@@,,..,,,  /&.         
+         *&.    @@*    /@@@@@@&,           /@@@@@@%  ........./%@@@@@@@@@@@@@%,.,,,,.  (&          
+         .&*    @@(..#@@/.                .         ...............,,,,**/#&%,...,,,.  (%          
+          (%    &@@@@%,                ..    .*(*..............................,,,,,.  %(          
+          .@*    (#*                 *&@@(...*@@@@%*...........................,,,,,. .&/          
+           (%                      *@@@@/  ....#@@@@@,.........................,,,,,  .%@#,        
+           .&*                     /&%*. ........*%&%,.........................,,,,,,..  .*&&/     
+      ./&@%*.                          .  ...................................,,,,,,,,,,,,,.   (@/  
+   .#@#,               .*(#&&&&&&&&%(*,.........*#&@@@@@@@@@@@@@@@(*,.....,.,,,,,,,,,,,,,,,.  (@,
+ ,&%.            ,#&@@@@@@&%%(///#%&@@@@#....,#@@&%(/*,,,,,,,,,*/(%&@@@@@*,.,,.,,,,,,,,,,,,,,  *@
+#&.          .(@@@@%/,              . *@@@@@@@@@%.....................,*(%@@@@&/,,,,,,,,,,,,,,,.  #
+&.         ,@@@%.                     .. ..................................,*(&@@@(,,,,,,,,,,,,.  (
+%           ..                          ...................................,,,,,*(*,,,,,,,,,,,,  .@
+&/                                    ....................................,,,,,,,,,,,,,,,,,,,.  ,&(
+.&%.                                 ....................................,,,,,,,,,,,,,,,,,,.  .%&, 
+   (@(.                              ....................................,,,,,,,,,,,,,,,.  .(@(    
+     ,%@#.                           ....................................,,,,,,,,,,..   ,#@%.      
+        ./&@#,                      .................................,,,.,.,,,..    ,#@&/.         
+             ,#&*.                .....................................     .*#&@(,              
+                  ./#&@&%(*,.               ...........            .,,*#%&@@%#*.                   
+                        .%@(*#%&&@@@&&%%%##((((((((((#%%%&&&@@@@&&%#(*, .(@(                       
+                      *@%.     .,*********************************,,.....  *@/                     
+                    .%%.            ..,,,*****************,,,.............. .%#                    
+                   *@,                      ...............................,. (&                   
+                  .@*                       ..,@@,.........................,.. %#                  
+                  (&                 ..     .,@@@@,...../%%..................,.,@,                 
+                  %#                ,@@@#... #@@@@#...(@@@@,.................,. #%                 
+                  %(                .&@@@&,...*/(*....(@@@%................,,.,.,@,                
+                  %(                 ,%#*. ................................,,,,, &(                
+                  %#               .  ..     ...,,,,..   ................,,,,,,, #%                
+                  %#                  .(&@@@@@@@@@@@@@@@@@%/.  ..........,,,,,,, /&                
+                  %#               .%@@@&&&&&&&&&&&&&&&&&&@@@@%, ........,,,,,,,.,&                
+                  %#             ,@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&@% ......,,,,,,,..@                
+                  %(            .@&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&@, .,.,,,,,,,,..&                
+                  %(           .&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@( .,.,,,,,,,,.&.               
+                  %(           %##################################@( .,,,,,,,,, %.               
+                .#@/          (@#####################################@/ ,,,,,,,,, %.               
+              .%%.           ,@#((((#&@(((((((((((((&@@@@((((((((((#@,.,,,,,,,, #,               
+            *&%.             &%(((((&@@@@((#%%%%%%%%%%%@@@&((((((#(((( ,,,,,,,, (%/,             
+          /@(               (@&%%///(&@#%%%#(/((#%&%%%#(//////%%%%%%&@..,,,,,,,.  .*(&@%*        
+       .%&,              .#@&%%%%%(((#%%%%(/#@@@@@&(/#%%%%%%%#%%%%%%%%%@/ ,,,,,,,,,,,,,,,. ,%&*    
+      ,@/             ,#@@%%%%%%%%%%%%%%%//@@@@@@@@@%*(%%%%%%%%%%%%%%%%&% .,,,,,,,,,,,,,,,,. .&(   
+      (&,       .*(&@&%#(#####%%%%%%%%%%(,&@@@@@@@@@@(*#%%%%%%%%%%%%%%%#&@/  ,,,,,,,,,,,,,,. .&(   
+      /##&&@@@&&%###((###########(######/*%%&&&&@@@@@%,(#%%%%%######(#((##%@,. ..,.,,,.  .(@%*   
+      ,((###(##(######################(#####((######################(##########%&@@@@&&@@@@#(.   
+        *(############################################################################(((###(,     
+           ./(#######(#(#####################################################(#####(##(#(*.        
+                .*/(##############################################################(*,.    
+
+
+""")
+    choice = input("FIGHT go to ch 14.        MERCY go to ch 15")
+    if choice == "14":
+        page14()
+    else:
+        page15()
+
+
+def page11():
+    print(" page 11")
+    print("""\n\n\nYou decide to go back to sleep.
+Next thing you know you are back in the black void area accept now instead of a melted figer,
+there was a child in a green and yellow striped sweater playing a computer game with a small white dog.
+You go over to see what there up to,
+When you get over there the childe finale realized that you were there
+“ hey” the said as they just glanced over at you ,
+then they did a double take “what are you doing in here your not supposed to see me until later”
+they said as they looked up and yelled
+“GET THEM OUT OF HERE.
+AM NOT READY” as they did you could here a distant cackling coming somewhere above you,
+as you looked up to see where it came from you suddenly awoke.
+Weird you thought to yourself as you got up.
+                        DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+                        DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+                      DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+                      DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD8
+                   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+                DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+                DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+                DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+                DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+               DDDDDDDDDDD      DDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+              DDDDDDDDDDD      DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+             DDDDDDDDD            DD             DDDDDDDDDDDDD
+             DDDDDDDDD     ~III         ~III     $$$DDDDDDDDDD
+            DDDDDDDDD      MMM           MMM        DDDDDDDDDDD
+           88DDDDDD~       MMM           MMM        DDD::ZDDDDD
+           DDDDDDDD        MMM           MMM        DDD::ZDDDDD
+           DDDDDDDD        MMM           MMM             ZDDDDD
+           DDDDDDDD        MMM           MMM             ZDDDDD
+           DDDDDDDD                                    DDDDDDDD
+           DDDDDDDD                                    DDDDDDDD
+           DDDDDDDD           MMM     MMM            DDDDDDDDDDD
+           DDDDDDDD8D8           MMMMM            DDDDDDDDDDDDDD
+           DDDDDDDDDD8           MMMMM            DDDDDDDDDDDDDD
+             DDDDDDDDDDDDDD                 DDDDDDDDDDDDDDDDDDD
+             DDDDDDDDDDDDDD               DDDDDDDDDDDDDDDDDDD
+             DDDMMMDDDDDDDDDDDDDDDD      DDD
+                                MDD      DDD
+                               DDDDDDDDDDDDDDDDD
+                              DDDDDDDDDDDDDDDDDDD
+                       DDDDDIIIDDDDDDDDDDDIIDDDDDDDD8M
+                      DDDDDDDDIIIDDDDDDDDDDDIIDDDDDDDD8
+                   D8DIIDDDIIIIIIIIIIIIIIII7IIIIIDDDIIIDDN
+                   DDDIIDDDIIIIIIIIIIIIIIIIIIIIIIDDDIIIDDN
+                DDDIIIDD:::::::::::::::::::::::::DDDDDDIIODD
+                DDDIIIDD:::::::::::::::::::::::::?++DDDIIODD
+                DDDIIIDD::::::::::::::::::::::::::::DDDIIODD
+                DDD88DDDIIIIIIIIIIIIIIIIIIIIIIIIIIIIDD88DDDD
+                DDDDDDDDIIIIIIIIIIIIIIIIIIIIIIIIIIIIDDDDDDDD
+                DDD:::DDD8888888888D8DDDDD8D8DDDDD8DDDD::$DD
+                DDD:::DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD::$DD
+                DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+                88888DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD8888
+                      DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD8
+                      DDDDDDDDDDDDDMMMDDDDDDDDDDDDDDDD8
+                      DDDDDDDDDDDDDMMM DDDDDDDDDDDDDDD8
+                      DDDDDDDDDDDDDMMM DDDDDDDDDDDDDDD8
+                      DDDDDDDDDDDDDMMM DDDDDDDDDDDDDDD8
+                           DDDDDDDDMMM DDDDDDDDDD
+                           DDDDDDDDMMM DDDDDDDDDD
+                        DDDDDDDDDDDMMM DDDDDDDDDDDDD
+
+
+
+
+
+""")
+    choice = input("LEAVE room go to ch. 10")    
+    if choice == "10":
+        page10()        
+
+def page12():
+    print("Page12")
+    print("""\n\n\nIts flowery you wave.
+“Howdy Best friend, I missed you” flowey said as he waved his petel at you “chara” flowey said with a little bit of sadness in his voice “they’ve replaced us.
+Mo-toriel and asgore they replaced us” flowey said as his Petals drooped with sadness.
+“And this is just profs that this word needs destroyed” flowey finished as he wiped a tear from his face with a vine “ will you help me” he asked
+
+
+
+
+""")
+    choice = input("HELP go to ch 18.         DONT help go to ch 19")
+    if choice == "18":
+        page18()
+    else:
+        page19()
+
+def page13():
+    print("Page 13")
+    print("""\n\n\nIT'S FLOWEY RUN!
+you think as you start to run but you only make it 2 steps before flowey wrapes his vines around your feet and you trip
+As you fall flowey pops out of the grown right in front of you.
+
+ 
+
+“Golly friend, you looked scared ” flowey proclaimed, stressing the word friend.
+“No need to be scared.
+Especially when your good friend Flowey is here” he said as he booped your nose,stressing the word friend once again, “and as friends, could you do me a little favor” flowey said with an evil glint in his eyes and a wide grin.
+“You see friend, the monsters down here are weak, there king just sits on his throne and wait for humans to come to him when he can cross over to the human world and then collect the souls needed himself.”
+Flowey said gritting his teeth, than he continued
+
+ 
+
+“The monsters down here don’t deserve to live anymore, and with your help I can cleanse this world.
+What do you say, friend” flowey finished as he raised a vine for you to shake.
+                               .cllllllll;              .cllllllll,                                
+                          .cll, .cloOWMMMMKdllll,    .:llOWMMMMMMXx, .:ll;                          
+                        .ckWMMKocc' .loooooooooo,    .coooooooooo;..:kNMMXd;.                       
+                      .cOWMMMMMMXd'                                :XMMMMMMXd;.                     
+                      ,o0WMMKxdd;       .:ccccccccccccccccc'       .lddONMMNkc.                     
+                        'odo;     .;::::xNMMMMMMMMMMMMMMMMM0l::::'     .lddc.                       
+              .ccccccc.         .cOWMMMWMMMMMMMMMMMMMMMMMMMMMMMMMXd,         .;lccccc;.             
+            .lOWMMMMMWOl'     .:kNMMMMMMMMXxooOWMMMMMXxooOWMMMMMMMMKo,     .;dXMMMMMMXd;.           
+          'cOWMMMMMMMMMWo   .:kNMMMMMMMMMMk.  :NMMMMMk.  :XMMMMMMMMMMKo,   '0MMMMMMMMMMXd;.         
+        .cOWMW0dddoododo,   cNMMMMMMMMMMMMk.  :XMMMMMk.  :XMMMMMMMMMMMMk.  .cdddddoddkNMMXd,        
+        cNMMMWOc::::::.     cNMMMMMMMMMMMMk.  :XMMMMMk.  :XMMMMMMMMMMMMk.     ,::::::oXMMMMO.       
+        cNMMMMMMMMMMMWk:.   cNMMMMMMMMMMMMk.  :XMMMMMk.  :XMMMMMMMMMMMMk.   ,oKMMWWMMMMMMMMO.       
+        'lod0WMMMMMMMMMWo   :NMMMMMMKdOWMMKocckWMMMMMKocckWMMKxkNMMMMMMk.  '0MMMMMMMMMMNkoo:.       
+            ,d0WMMMMMMMWo   .lOWMMMW0lloodoooooooooooooooddoolcdNMMMMXx:.  '0MMMMMMMMNkc.           
+              ,d0WMMMMMWOc.   :XMMMMMW0l' .;:::::::::::::' .;xNMMMMMMx.  .;dXMMMMMMNkc.             
+                ,odddddddd,   .o0WMMMMMM0lcodddddddddddddocxNMMMMMMXx;   .lddddddddc.               
+                          .,.   .oKWMMMMMW0l;;;;;;;;;;;;:xNMMMMMMNk:   .,'                          
+                      .;;;xNd.    ,xKWMMMMMWWWWWWWWWWWWWWMMMMMMNOc.    ,K0l;;'                      
+                    .;xWWWMWd.      ,dkk0WMMMMMMMMMMMMMMMMMXOxkl.      ,KMWWWKl.                    
+                  .;xNMMMMKxo:::'       .lddddddddddddddddd:.      .;::coONMMMW0l'                  
+                  cNMMMMKxlcxNMM0l;;;;.                      .,::;:xNMMKlcdONMMMMk.                 
+                  cNMMMWo.cNMMMMMMWWWWOc;;;;;;;;.  .,;;;;;;;;dXWWWWMMMMMWk.,0MMMMO.                 
+                  cNMMMWk:xWMMMMMMMMMMMWWWXkxxxx:  .oxxxx0NWWMMMMMMMMMMMMKclXMMMMO.                 
+                  ,xkOXWMWWMMMMMMMXOkkkkkkc.             ,dkkkkkk0WMMMMMMMWWMN0kkl.                 
+                     .:kkkkkkkkkkk:.                             .dOkkkkkkkkko.                     
+                                            .;;;.                                                   
+                                          .,xNMWO:,.                                                
+                                          ;KMMMMMWWx.                                               
+                                        .'oNMMMMXOkc.                                               
+                                        ;KWMMMXOc.                                                  
+                                        ;XMMMWx.                                                    
+                                        'xKWMMk,.                                                   
+                                          :XMMWNk:,.                                                
+                                          'xXWMMMWNO:.                                              
+                                            ;kXWMMMWWx.                                             
+                                              ;kXWMMM0;.                                            
+                                                cXMMMWNx.                                           
+                                               .oNMMMMM0:.                                          
+                                    .'.     .'oKNMMMMMMWXo.   '.                                    
+                                    :Kd.   'dXWMMMMMMMMMWx.  ,0k.                                   
+                                    ;kd,. .dKWMMMMMMMMMNKc  .:ko.                                   
+                                     .;xo,..:O000000000d...:xl.                                     
+                                       .,xo,',,,,,,,,,,'.:xl.                                       
+                                         .,dkkkkkkkkkkkkkl.                                         
+                                           ..............                                           
+                                                           """)
+    choice = input("SHAKE go to ch 16.         DONT shake go to ch 17")
+    if choice == "16":
+        page16()
+    else:
+        page17()
+def page14():
+    print("page 14")
+    print (""" \n\n\n howdy i notice that you killed how about we do some more 
+    
+                                                                                                       
+                                                                                                   
+                              ,@@@@@@@@@@#               @@@@@@@@@@&                               
+                        @@@@%      @@@@@@@@@@@@@.   /@@@@@@@@@@@@/    @@@@*                        
+                      @@@@@@@@@@@                                  .@@@@@@@@*                      
+                   .@@@@@@@@@@%                                    .@@@@@@@@@@#                    
+                    **@@@@(***,        ,###################         ****@@@@(*,                    
+                      *///.      ((((((%@@@@@@@@@@@@@@@@@@@#(((((,      *///.                      
+           .........           .,@@@@@@@%%%%%&@@@@@@&%%%%%%@@@@@@(..           ........            
+           @@@@@@@@&          ,@@@@@@@@#      @@@@@@(      @@@@@@@@&          ,@@@@@@@@,           
+         @@@@@@@@@@@@@      ,@@@@@@@@,          &@.          @@@@@@@@@      #@@@@@@@@@@@@#         
+       @@@@@@@@@@@@@@@    #@@@@@@@@      *@@    &@.   .@@      (@@@@@@@@    #@@@@@@@@@@@@@@#       
+    /@@@@@@               #@@@@@@@@           @@@@@@(          (@@@@@@@@               %@@@@@@     
+    /@@@@@@@@@@@@@@&      #@@@%  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/ .@@@@      ,@@@@@@@@@@@@@@@     
+    /@@@@@@@@@@@@@@@@@    #@@@%          *@@@@@@@@@@@@@@@@@        .@@@@    #@@@@@@@@@@@@@@@@@     
+         @@@@@@@@@@@@@    #@@@@@@@@@@,   *@@@@@@@@@@@@@@&    @@@@@@@@@@@    #@@@@@@@@@@@@#         
+           @@@@@@@@@@@      ,@@@@@@@@@@#      @@.   /@&    @@@@@@@@@@@      #@@@@@@@@@@,           
+             #@@@@@@@@@@    ,@@@@@@@@@@@@#  @@        .@&  @@@@@@@@@@@    %@@@@@@@@@@              
+             ...........     .*@@@@@@@@@@@%&@@%%    *%&@@%%@@@@@@@@&..    ...........              
+                        */.   .((@@@@@@@@@@@@@@@////#@@@@@@@@@@@@%(/    */.                        
+                    ****@@*      ##@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#,      @@(***,                    
+                   ,@@@@@@*        @@@@@@@@@@@@@@@@@@@@@@@@@@@@*        @@@@@@%                    
+                 ,@@@@@@@@*            *@@@@@@@@@@@@@@@@@@@             &@@@@@@@%                  
+               (@@@@@@@@  #@@@%                                    .@@@@  %@@@@@@@@                
+               (@@@@@@  @@@@@@@@@@@@@.                       @@@@@@@@@@@@@, #@@@@@@                
+               (@@@@@@  @@@@@@@@@@@@@@@@@@@@@@@@. &@@@@@@@@@@@@@@@@@@@@@@@, #@@@@@@                
+               (@@@@@@@@@@@@@@@@@@@@@@@@@#               @@@@@@@@@@@@@@@@@@@@@@@@@@                
+                   .@@@@@@@@@@@@@                                (@@@@@@@@@@@@%                    
+                                              @@@@.                                                
+                                            @@@@@@@@(                                              
+                                            @@@@@@@@(                                              
+                                         ,##@@@@@@/*.                                              
+                                         *@@@@@@//                                                 
+                                         *@@@@@@.                                                  
+                                         *@@@@@@.                                                  
+                                            @@@@@@.                                                
+                                            @@@@@@@@/                                              
+                                              @@@@@@@@&                                            
+                                                &@@@@@&                                            
+                                                  &@@@@@@                                          
+                                                  &@@@@@&                                          
+                                                &@@@@@@@@@@                                        
+                                     #&(      &&@@@@@@@@@@@    (&*                                 
+                                     %@(    %&@@@@@@@@@@@@@    (@/                                 
+                                     /((/,  ((@@@@@@@@@@@((  */((,                                 
+                                       ,#(**  ##########(  **(#,                                   
+                                         *@&               &@                                      
+                                            @@@@@@@@@@@@@@@                                        
+                                                                                                   
+    
+    
+    
+    """)
+    choice = input("go to page 18")
+    if choice == "18":
+     page18()
+def page15():
+    print("page 15 welcome to the pacifist")
+    print("""\n\n\n seeing the over joy on the frogs face after being spared has filled you with derimenation to become
+    a pasifist
+                         
+                                        .     .                                          
+                                                .      . .                                         
+                                                 .       .               ... ....                  
+                                                         .            .   .  ..                    
+                                               .         .                        .                
+                                              .          .         .           . .                 
+                                            . .          .        .             .                  
+                                            .            .        .                                
+                                            . .                    .        . .                    
+                                                       .  .      .         .  .                    
+                                            .  .        . .        .       .                       
+                                            .  .        ...     . .       . .                      
+                                               .         ..    . .        .                        
+                                               .         ..              . .                       
+                                               .        .  .  . .                                  
+                                               .         . .            . .                        
+                                               .         . .   .        . .                        
+                                               .            .. .                                   
+                                               .          .    .         .                         
+                                 ..       ..                  .        . .                         
+                           .  .   .      ..   .              .           .                         
+                            ..               .                           .                         
+                        ..                                               .                         
+                    .                          .       . .           ..                            
+                      .            ..                                   . .                        
+                  .                                                      .                         
+                 . ..                                                                              
+                 . .                                                      .                        
+                                                                          . .                      
+                        .                                                                          
+                .      .                                                  .                        
+                 . .. .                                                                            
+                  .   .                                                                            
+                   ..                                                                              
+                    .                                                        .                     
+                   .                                                        .                      
+                    .                                                     . .                      
+                    . .                                                                            
+                    .                                                      .                       
+                     . .                                                                           
+                     .  .                                               . .                        
+                      .  .                                                .                        
+                                                                                                   
+                                                                                                   
+                        . .  ..                                                                    
+                          .      .                              ..  .  .                           
+                       .                                               .                           
+                                                                     . .                           
+                         ..   .                                    .  .                            
+                             .     ....   .           .    ...     .                               
+                                    ...                    ...                                                                                                                                                                        
+                                                                                                                                                               
+                                                                                                                                                               
+                                                                                                                                     """ )
+    choice = input("move on go to ch 17")
+    if choice == "17":
+        page17()
+def page17():
+    print("page 17 ")
+    print("""\n\n\n you move to the next room you see there is a 2 frogs 
+    up against the wall you wonder why and you see a switch on the wall
+                                                        .*%&@&%%%%&@@&%(*.                     
+                   .,/#%&&&%%(*.                         ,%@(,              .*(&@#,                
+               .%@&(,         ./%&(.                   /@#.     ............      /&,              
+             (@#                  ,%&*               ,    .....................  .%%.            
+           (@*                       #@,            *@*   .........................  (&.           
+         .&(                          .          *@,  .....*&@@@@@@@%*.........,..  %#           
+         %#                             %%        .@*  .....&@@@@@@@@@@@@%*.......,.  ,@,          
+        .&*         ,(%%%%%/.            %#       #%  .....#@@@&*.*%@@@@@@@%,........  %(          
+        .&*      /@@@@@@@@@@@@(           %(     ,@, ......#@@@*       *&@@@@/.,,.,,.  (%          
+         &/     (@@@@&* .%@@@@@(          *@,    *&. ......*@@@@&/       /@@@&,...,,,  /&          
+         %#     @@@%.    #@@@@@&.          %(    (% ......../@@@@@@&(.  .%@@@@,,..,,,  /&.         
+         *&.    @@*    /@@@@@@&,           /@@@@@@%  ........./%@@@@@@@@@@@@@%,.,,,,.  (&          
+         .&*    @@(..#@@/.                .         ...............,,,,**/#&%,...,,,.  (%          
+          (%    &@@@@%,                ..    .*(*..............................,,,,,.  %(          
+          .@*    (#*                 *&@@(...*@@@@%*...........................,,,,,. .&/          
+           (%                      *@@@@/  ....#@@@@@,.........................,,,,,  .%@#,        
+           .&*                     /&%*. ........*%&%,.........................,,,,,,..  .*&&/     
+      ./&@%*.                          .  ...................................,,,,,,,,,,,,,.   (@/  
+   .#@#,               .*(#&&&&&&&&%(*,.........*#&@@@@@@@@@@@@@@@(*,.....,.,,,,,,,,,,,,,,,.  (@,
+ ,&%.            ,#&@@@@@@&%%(///#%&@@@@#....,#@@&%(/*,,,,,,,,,*/(%&@@@@@*,.,,.,,,,,,,,,,,,,,  *@
+#&.          .(@@@@%/,              . *@@@@@@@@@%.....................,*(%@@@@&/,,,,,,,,,,,,,,,.  #
+&.         ,@@@%.                     .. ..................................,*(&@@@(,,,,,,,,,,,,.  (
+%           ..                          ...................................,,,,,*(*,,,,,,,,,,,,  .@
+&/                                    ....................................,,,,,,,,,,,,,,,,,,,.  ,&(
+.&%.                                 ....................................,,,,,,,,,,,,,,,,,,.  .%&, 
+   (@(.                              ....................................,,,,,,,,,,,,,,,.  .(@(    
+     ,%@#.                           ....................................,,,,,,,,,,..   ,#@%.      
+        ./&@#,                      .................................,,,.,.,,,..    ,#@&/.         
+             ,#&*.                .....................................     .*#&@(,              
+                  ./#&@&%(*,.               ...........            .,,*#%&@@%#*.                   
+                        .%@(*#%&&@@@&&%%%##((((((((((#%%%&&&@@@@&&%#(*, .(@(                       
+                      *@%.     .,*********************************,,.....  *@/                     
+                    .%%.            ..,,,*****************,,,.............. .%#                    
+                   *@,                      ...............................,. (&                   
+                  .@*                       ..,@@,.........................,.. %#                  
+                  (&                 ..     .,@@@@,...../%%..................,.,@,                 
+                  %#                ,@@@#... #@@@@#...(@@@@,.................,. #%                 
+                  %(                .&@@@&,...*/(*....(@@@%................,,.,.,@,                
+                  %(                 ,%#*. ................................,,,,, &(                
+                  %#               .  ..     ...,,,,..   ................,,,,,,, #%                
+                  %#                  .(&@@@@@@@@@@@@@@@@@%/.  ..........,,,,,,, /&                
+                  %#               .%@@@&&&&&&&&&&&&&&&&&&@@@@%, ........,,,,,,,.,&                
+                  %#             ,@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&@% ......,,,,,,,..@                
+                  %(            .@&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&@, .,.,,,,,,,,..&                
+                  %(           .&%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@( .,.,,,,,,,,.&.               
+                  %(           %##################################@( .,,,,,,,,, %.               
+                .#@/          (@#####################################@/ ,,,,,,,,, %.               
+              .%%.           ,@#((((#&@(((((((((((((&@@@@((((((((((#@,.,,,,,,,, #,               
+            *&%.             &%(((((&@@@@((#%%%%%%%%%%%@@@&((((((#(((( ,,,,,,,, (%/,             
+          /@(               (@&%%///(&@#%%%#(/((#%&%%%#(//////%%%%%%&@..,,,,,,,.  .*(&@%*        
+       .%&,              .#@&%%%%%(((#%%%%(/#@@@@@&(/#%%%%%%%#%%%%%%%%%@/ ,,,,,,,,,,,,,,,. ,%&*    
+      ,@/             ,#@@%%%%%%%%%%%%%%%//@@@@@@@@@%*(%%%%%%%%%%%%%%%%&% .,,,,,,,,,,,,,,,,. .&(   
+      (&,       .*(&@&%#(#####%%%%%%%%%%(,&@@@@@@@@@@(*#%%%%%%%%%%%%%%%#&@/  ,,,,,,,,,,,,,,. .&(   
+      /##&&@@@&&%###((###########(######/*%%&&&&@@@@@%,(#%%%%%######(#((##%@,. ..,.,,,.  .(@%*   
+      ,((###(##(######################(#####((######################(##########%&@@@@&&@@@@#(.   
+        *(############################################################################(((###(,     
+           ./(#######(#(#####################################################(#####(##(#(*.        
+                .*/(##############################################################(*,.    
+
+""")
+    choice = input("talk go to ch 19.  filp the switch  shake go to ch 20")
+    if choice == "19":
+        page19()
+    else:
+        page20()
+def page19():  
+    print("page 19 ")
+    print("""\n\n\n you talk to the frogs they say ribit and give you monster candy you take it with delite then you go flick the switch on the wall """)
+    choice = input("flick go to page 20" )
+    if choice == "20":
+        page20()  
+def page20():
+    print("page 20")
+    print ()
+    
+   
+
+
+
+
+
+
+
+
+
+
+start()
